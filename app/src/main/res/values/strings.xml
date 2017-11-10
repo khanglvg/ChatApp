@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChatView</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+    <string name="block">Block</string>
+    <string name="profile">Profile</string>
+    <string name="anonymous">Anonymous Login</string>
+    <string name="icon_user">Icon User</string>
+    <string name="user_name">User Name Test</string>
+
+
+    <string name="location">Location</string>
+    <string name="takePhoto">Take Photo</string>
+    <string name="choosePhoto">Choose Photo</string>
+
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="hint_email">abcxyz@gmail.com</string>
+    <string name="hint_password">123456789</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="sign_in">Sign In</string>
+
+
+</resources>
